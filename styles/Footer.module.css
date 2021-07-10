@@ -1,0 +1,8 @@
+.cartFooter{
+    text-align: center;
+    background: #d6445c;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+  }
